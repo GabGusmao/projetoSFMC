@@ -1,0 +1,52 @@
+SELECT p.id_proposta,
+    p.id_produto,
+    p.cnpj_cpf,
+    p.nome_completo,
+    p.email,
+    p.celular,
+    p.dt_proposta,
+    p.dt_fechamento,
+    p.dt_validade,
+    p.dt_ultima_modificacao,
+    p.dt_venda,
+    p.cd_ponto_venda,
+    p.vendedor,
+    p.status_proposta,
+    p.valor_proposta,
+    p.cd_promocional,
+    p.tem_seguro,
+    p.tipo_pagamento,
+    p.dt_pagamento,
+    p.link_boleto,
+    p.link_cartao,
+    p.link_contrato_naoassinado,
+    p.cd_pix,
+    p.end_point,
+    p.tipo_bem,
+    p.ponto_venda,
+    p.tipo_lance,
+    p.primeiro_nome,
+    p.cd_pix_unificado,
+    p.valor_pix_unificado,
+    p.debito_automatico,
+    p.dt_adesao,
+    p.dt_alocacao,
+    p.link_contrato_assinado,
+    p.uber_retencao,
+    p.dt_contemplacao,
+    p.acesso_aplicativo,
+    p.contrato_assinado,
+    p.proposta_paga,
+    CONVERT(CHAR(2), DATEPART(day, GETDATE())) AS dia_Entrada,
+    'br' as Locale
+FROM tb_propostas AS p
+WHERE p.status_proposta = 'Ativa'
+    AND p.email NOT LIKE '%bamaq%'
+    /* FILTRO:  HOJE E ONTEM */
+    AND CAST(p.dt_proposta AS date) >= DATEADD(day, -1, CAST(GETDATE() AS date))
+    /* EVITAR REPETIÇÃO */
+    AND NOT EXISTS (
+        SELECT 1
+        FROM tb_nova_propostas_historico AS h
+        WHERE p.id_proposta = h.id_proposta
+    )
