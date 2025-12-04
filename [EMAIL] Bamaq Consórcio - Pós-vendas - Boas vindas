@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BAMAQ</title>
+</head><custom name="opencounter" type="tracking"/>
+
+<body style="background-color: #fffffff;">
+  <table id="mae" align="center" width="600" cellpadding="0" cellspacing="0">
+    <table align="center" width="600" cellpadding="0" cellspacing="0" style="">
+      <tr>
+        <td>
+ <img
+              src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/f0c65f10-023f-40b5-a992-cecd126a64b7.png"
+              alt="" style="display: block; height: 110px; width: 300px;">
+        
+        <td style="font: 12px sans-serif; color: #4D4D4D; padding-left: 10px; height: 108px; width:300px ;">
+          <p>Caso não esteja visualizando este e-mail, <a href="%%view_email_url%%" style="color: #4D4D4D;"> clique
+              aqui.</a><br>
+            <br>
+            Para garantir o recebimento deste-email, por favor adicione <br>
+            <strong>contato@marketing.bamaqconsorcio.com.br</strong> à sua lista de contatos.<br><br>
+            <strong>
+              ID PROPOSTA: %%proposta%% <br>
+              TIPO BEM: %%tipo_bem%% <BR>
+              VALOR DA CARTA: R$%%valor_bem%%
+            </strong>
+          </p>
+        </td>
+      </tr>
+    </table>
+    
+          <!-- Spacer -->
+      <table width="100%" cellpadding="0" cellspacing="0"><tr><td height="15"></td></tr></table>
+
+    <table align="center" width="600" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>
+          <a href="#">
+            <img
+              src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/45bdc231-0455-496c-839b-6ac09c013a20.png"
+              alt="" style="display: block;">
+            <br>
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table align="center" width="600" cellpadding="0" cellspacing="0" style="background-color: white;">
+      
+   <!-- CONTEUDO -->
+<table align="center" width="600" cellpadding="0" cellspacing="0" style="background-color: white;">
+  <tr>
+    <td style="padding: 10px 10; vertical-align: middle; font-family: Arial, sans-serif; font-size: 24px; font-weight: bold;">
+      Olá, %%primeiro_nome%%!<p>
+      
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 10; vertical-align: middle;font-family: Arial, sans-serif;">
+Boas-vindas à Bamaq Consórcio. Estamos felizes pela sua escolha de conquistar seu sonho com o planejamento inteligente! Confira as informações do seu consórcio: 
+    </td>
+  </tr>
+</table>
+      <!-- Spacer -->
+      <table width="100%" cellpadding="0" cellspacing="0"><tr><td height="15"></td></tr></table>
+
+          
+     <!-- INICIO DO BOX DE COTA -->
+      
+<table style="width: 80%; max-width: 350px; margin: auto; padding: 20px;  background-color: #88017f; font-family: Arial, sans-serif; border-radius: 12px; color: #ffffff;">
+
+    
+    <!-- Item 1 --> 
+  <tbody>
+    <tr>
+            <td style="text-align: center; color: #ffffff; font-size: 16px; padding: px 10px;" colspan="2">
+           <strong>Grupo</strong>: %%cd_grupo%%
+      </table></tbody>
+  
+      <!-- Spacer -->
+      <table width="100%" cellpadding="0" cellspacing="0"><tr><td height="15"></td></tr></table>
+
+
+    <!-- Item 2 -->
+<!-- BOX ROXO -  COTA | CONTRATO -->
+<table style="width: 80%; max-width: 500px; margin: auto; padding: 5px; background-color: #88017f; font-family: Arial, sans-serif; border-radius: 12px; color: #ffffff;">
+
+      <!-- Cota -->
+      <td style="text-align: left; font-size: 16px; padding: 10px;">
+        <strong>Cota:</strong> %%cd_cota%%
+      </td>
+
+      <!-- Divisor branco -->
+      <td style="width: 1px; background-color: #ffffff;"></td>
+
+      <!-- Contrato -->
+      <td style="text-align: center; font-size: 16px; padding: 10px;">
+        <strong>Contrato:</strong> %%situacao_contrato%%
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+       
+<!-- FIM DO BOX COTA --> 
+
+      <!-- Spacer -->
+      <table width="100%" cellpadding="0" cellspacing="0"><tr><td height="20"></td></tr></table>
+
+
+<table align="center" width="600" cellpadding="0" cellspacing="0">
+  <tr><!-- CENTRALI --> 
+    <td style="padding: 0px 15px; font: 16px sans-serif;">
+      <p>Em breve você receberá as informações de acesso ao App do Cliente da Bamaq Consórcio.
+<p style="font: 16px sans-serif;"><br><strong>Abraços,<br> time Bamaq Consórcio.</strong> </p>
+
+
+
+      <!-- INICIO RODAPE --> 
+
+<table cellspacing="0" cellpadding="0" width="600" align="center" border="0" bgcolor="#FFFFFF"> <tr> <td align="center" valign="top"> <table cellspacing="0" cellpadding="0" width="600" align="center" border="0" bgcolor="#FFFFFF"> <tr> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/1971d865-dcfb-4320-9ff1-376bd413d594.png" alt="" title="" width="600px" border="0" style="display:block;"></a> </td> </tr> </table> <table cellspacing="0" cellpadding="0" width="600" align="center" border="0" bgcolor="#FFFFFF"> <tr> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/3fbb0d31-f89d-4dd3-b8fb-b605e6d69452.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/4b0ebb08-1f54-4702-8dd2-7f8b56f7d677.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> </tr> </table> <table cellspacing="0" cellpadding="0" width="600" align="center" border="0" bgcolor="#FFFFFF"> <tr> <!-- BOTÕES --> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/2e375139-6e31-4bec-b161-4cbe474dd243.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <!-- INSTAGRAM --> <td align="center" valign="top"> <a href="https://www.instagram.com/bamaqconsorciobr/" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/6a25aba4-1177-47e7-b81b-bca878e5ac07.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <!-- FACEBOOK --> <td align="center" valign="top"> <a href="https://www.facebook.com/bamaqconsorcio/?locale=pt_BR" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/c7d9e72f-0414-4368-aca4-5d74a1c92442.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <!-- lINKEDIN --> <td align="center" valign="top"> <a href="https://www.linkedin.com/company/bamaq-consorcio/?originalSubdomain=br" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/91ebc90a-24e0-4bdb-b6ea-f40a17a245fb.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <!-- YOUTUBE --> <td align="center" valign="top"> <a href="https://www.youtube.com/@BamaqConsorcio" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/ba4377c7-404a-4682-8201-2b0a73f74160.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <!-- TIK TOK --> <td align="center" valign="top"> <a href="https://www.tiktok.com/@bamaqconsorcio" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/b06cb3a2-5630-465c-94ac-41abe2a89637.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/a26daa73-3723-42e1-ae8a-c21e87363494.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="" alt="" title="" width="" border="0" style="display:block;"></a> </td> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="" alt="" title="" width="" border="0" style="display:block;"></a> </td> </tr> </table> <table cellspacing="0" cellpadding="0" width="600" align="center" border="0" bgcolor="#FFFFFF"> <tr> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/cf78865d-5175-47bf-8dc9-8bb35f57b94a.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/08eb0026-9488-436b-bf22-60e2a78a7779.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> </tr> </table> <table cellspacing="0" cellpadding="0" width="600" align="center" border="0" bgcolor="#FFFFFF"> <tr> <td align="center" valign="top"> <!-- WHATSAPP RODAPÉ --> <a href="http://wa.me/553133691699 " target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/ab35722e-fa54-4141-b379-a158feb47135.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/a220a98d-ea2b-4378-9d68-8acb249b2517.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> </tr> </table> <table cellspacing="0" cellpadding="0" width="600" align="center" border="0" bgcolor="#FFFFFF"> <tr> <td align="center" valign="top"> <a href="#" target="_blank"> <img src="https://image.marketing.bamaqconsorcio.com.br/lib/fe2e11737164057b7c1673/m/1/8ea293cd-bd89-4b10-8224-67eb9f941bf7.png" alt="" title="" width="" border="0" style="display:block;"></a> </td> </tr> </table> 
+
+<!-- FINAL DO FOOTER --> 
+
+      <!-- Spacer -->
+      <table width="100%" cellpadding="0" cellspacing="0"><tr><td height="15"></td></tr></table>
+<table width="600" align="center" border="0" cellpadding="0" cellspacing="0">  <p style="text-align: center; margin: 0; font-size: 14px; color: #555555;">Esse email foi enviado por: %%Member_Busname%%<br> %%Member_Addr%%, %%Member_City%% - %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%.</p> <p style="text-align: center; margin-top: 10px; font-size: 14px; color: #555555;"> Caso não queira mais receber nossas comunicações, <a href="%%unsub_center_url%%" style="text-decoration: none; color: #555555;">clique aqui</a>. </p> <p style="text-align: center; margin-top: 10px; font-size: 14px; color: #555555;"> <a href="%%profile_center_url%%" style="text-decoration: none; color: #555555;"><a> </td> </tr> </table> </table> </body> </html>
